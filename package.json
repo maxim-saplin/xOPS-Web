@@ -1,0 +1,40 @@
+{
+  "name": "xOPS",
+  "version": "0.1.0",
+  "private": true,
+  "homepage": "http://maxim-saplin.github.io/xOPS",
+  "dependencies": {
+    "babel-polyfill": "^6.26.0",
+    "lodash": "^4.17.11",
+    "react": "^16.6.0",
+    "react-dom": "^16.6.0",
+    "react-scripts": "^3.1.1",
+    "react-swipe-events": "^1.0.3",
+    "url-search-params-polyfill": "^5.0.0",
+    "whatwg-fetch": "^3.0.0"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test",
+    "eject": "react-scripts eject",
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build"
+  },
+  "eslintConfig": {
+    "extends": "react-app"
+  },
+  "browserslist": [
+    ">0.2%",
+    "not dead",
+    "not ie <= 11",
+    "not op_mini all"
+  ],
+  "devDependencies": {
+    "enzyme": "^3.7.0",
+    "enzyme-adapter-react-16": "^1.7.0",
+    "gh-pages": "^2.0.1",
+    "react-addons-test-utils": "^15.6.2",
+    "react-test-renderer": "^16.6.3"
+  }
+}
