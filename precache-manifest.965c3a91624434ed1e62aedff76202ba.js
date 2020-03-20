@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "f879aea112f271b1d62e4f58060f26dd",
+    "revision": "3bec65c1292f21e98fdfcfab32c165c5",
     "url": "/xOPS-Web/index.html"
   },
   {
