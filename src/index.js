@@ -20,12 +20,12 @@ function start(){
   document.title = l18n.pageTitle;
   if (themeParam !== "white") document.body.className="dark";
 
-  db.initFake();
-  ReactDOM.render(<App />, document.getElementById('root'));
+  // db.initFake();
+  // ReactDOM.render(<App />, document.getElementById('root'));
 
-  // db.init().then(() => {
-  //   ReactDOM.render(<App />, document.getElementById('root'));
-  // });
+  db.init().then(() => {
+    ReactDOM.render(<App />, document.getElementById('root'));
+  });
 }
 
 function initParams(){
