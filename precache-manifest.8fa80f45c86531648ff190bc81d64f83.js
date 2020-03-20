@@ -1,27 +1,27 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "1f16485149fea65f1dd374d3a1a81893",
+    "revision": "4337990c163f375eb2a5b5ad64fad0b4",
     "url": "/xOPS/index.html"
   },
   {
-    "revision": "3726a3b420953fbcb988",
+    "revision": "1292c53a455b163a4e27",
     "url": "/xOPS/static/css/main.2117ac9d.chunk.css"
   },
   {
-    "revision": "e2f63d3b3a26080eaf25",
-    "url": "/xOPS/static/js/2.be03c727.chunk.js"
+    "revision": "33633701309bc047d253",
+    "url": "/xOPS/static/js/2.d5dff55a.chunk.js"
   },
   {
     "revision": "4d7ce9f5437c7cb260881d08dc78d7a9",
-    "url": "/xOPS/static/js/2.be03c727.chunk.js.LICENSE.txt"
+    "url": "/xOPS/static/js/2.d5dff55a.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "3726a3b420953fbcb988",
-    "url": "/xOPS/static/js/main.e5b4b7d4.chunk.js"
+    "revision": "1292c53a455b163a4e27",
+    "url": "/xOPS/static/js/main.a3b09164.chunk.js"
   },
   {
-    "revision": "b7927446842458d0af14",
-    "url": "/xOPS/static/js/runtime-main.d71d1c20.js"
+    "revision": "38efd41d76a48d4205d8",
+    "url": "/xOPS/static/js/runtime-main.b46983a2.js"
   },
   {
     "revision": "dd31905cb4394b5965adae9cb2bfd25c",
