@@ -3,10 +3,10 @@ import l18n from '../translations';
 const results = 
 {
   addYourDeviceResult: function(yd){
-    if (!yd.seqWrite && !yd.seqRead && !yd.randWrite && !yd.randRead && !yd.memCopy){
-      console.log("Invaid 'Your device' data");
-      return;
-    }
+    // if (!yd.seqWrite && !yd.seqRead && !yd.randWrite && !yd.randRead && !yd.memCopy){
+    //   console.log("Invaid 'Your device' data");
+    //   return;
+    // }
 
     if (!yd.device) yd.device = l18n.yourDevice;
 
