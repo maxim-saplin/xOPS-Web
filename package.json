@@ -2,7 +2,7 @@
   "name": "xOPS-Web",
   "version": "0.1.0",
   "private": true,
-  "homepage": "http://maxim-saplin.github.io/xOPS",
+  "homepage": "http://maxim-saplin.github.io/xOPS-Web",
   "dependencies": {
     "babel-polyfill": "^6.26.0",
     "lodash": "^4.17.11",
