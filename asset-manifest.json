@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/xOPS-Web/static/css/main.f49c88f2.chunk.css",
-    "main.js": "/xOPS-Web/static/js/main.a3b09164.chunk.js",
-    "main.js.map": "/xOPS-Web/static/js/main.a3b09164.chunk.js.map",
+    "main.js": "/xOPS-Web/static/js/main.a85a0bd0.chunk.js",
+    "main.js.map": "/xOPS-Web/static/js/main.a85a0bd0.chunk.js.map",
     "runtime-main.js": "/xOPS-Web/static/js/runtime-main.adac78f2.js",
     "runtime-main.js.map": "/xOPS-Web/static/js/runtime-main.adac78f2.js.map",
     "static/js/2.d5dff55a.chunk.js": "/xOPS-Web/static/js/2.d5dff55a.chunk.js",
     "static/js/2.d5dff55a.chunk.js.map": "/xOPS-Web/static/js/2.d5dff55a.chunk.js.map",
     "index.html": "/xOPS-Web/index.html",
-    "precache-manifest.965c3a91624434ed1e62aedff76202ba.js": "/xOPS-Web/precache-manifest.965c3a91624434ed1e62aedff76202ba.js",
+    "precache-manifest.f0cdb8c0fc58f22c1b82c2aded522b0f.js": "/xOPS-Web/precache-manifest.f0cdb8c0fc58f22c1b82c2aded522b0f.js",
     "service-worker.js": "/xOPS-Web/service-worker.js",
     "static/css/main.f49c88f2.chunk.css.map": "/xOPS-Web/static/css/main.f49c88f2.chunk.css.map",
     "static/js/2.d5dff55a.chunk.js.LICENSE.txt": "/xOPS-Web/static/js/2.d5dff55a.chunk.js.LICENSE.txt",
@@ -25,6 +25,6 @@
     "static/js/runtime-main.adac78f2.js",
     "static/js/2.d5dff55a.chunk.js",
     "static/css/main.f49c88f2.chunk.css",
-    "static/js/main.a3b09164.chunk.js"
+    "static/js/main.a85a0bd0.chunk.js"
   ]
 }
