@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/xOPS-Web/static/css/main.f49c88f2.chunk.css",
-    "main.js": "/xOPS-Web/static/js/main.a85a0bd0.chunk.js",
-    "main.js.map": "/xOPS-Web/static/js/main.a85a0bd0.chunk.js.map",
+    "main.css": "/xOPS-Web/static/css/main.6aa5f7eb.chunk.css",
+    "main.js": "/xOPS-Web/static/js/main.af0c1c67.chunk.js",
+    "main.js.map": "/xOPS-Web/static/js/main.af0c1c67.chunk.js.map",
     "runtime-main.js": "/xOPS-Web/static/js/runtime-main.adac78f2.js",
     "runtime-main.js.map": "/xOPS-Web/static/js/runtime-main.adac78f2.js.map",
     "static/js/2.d5dff55a.chunk.js": "/xOPS-Web/static/js/2.d5dff55a.chunk.js",
     "static/js/2.d5dff55a.chunk.js.map": "/xOPS-Web/static/js/2.d5dff55a.chunk.js.map",
     "index.html": "/xOPS-Web/index.html",
-    "precache-manifest.f0cdb8c0fc58f22c1b82c2aded522b0f.js": "/xOPS-Web/precache-manifest.f0cdb8c0fc58f22c1b82c2aded522b0f.js",
+    "precache-manifest.6c5448cfb3e749f0d394d627defaa61b.js": "/xOPS-Web/precache-manifest.6c5448cfb3e749f0d394d627defaa61b.js",
     "service-worker.js": "/xOPS-Web/service-worker.js",
-    "static/css/main.f49c88f2.chunk.css.map": "/xOPS-Web/static/css/main.f49c88f2.chunk.css.map",
+    "static/css/main.6aa5f7eb.chunk.css.map": "/xOPS-Web/static/css/main.6aa5f7eb.chunk.css.map",
     "static/js/2.d5dff55a.chunk.js.LICENSE.txt": "/xOPS-Web/static/js/2.d5dff55a.chunk.js.LICENSE.txt",
     "static/media/index.css": "/xOPS-Web/static/media/RuBlack.bd379b41.png",
     "static/media/index_dark.css": "/xOPS-Web/static/media/RuWhite.47b2b792.png",
@@ -24,7 +24,7 @@
   "entrypoints": [
     "static/js/runtime-main.adac78f2.js",
     "static/js/2.d5dff55a.chunk.js",
-    "static/css/main.f49c88f2.chunk.css",
-    "static/js/main.a85a0bd0.chunk.js"
+    "static/css/main.6aa5f7eb.chunk.css",
+    "static/js/main.af0c1c67.chunk.js"
   ]
 }
