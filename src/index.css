@@ -131,7 +131,7 @@ ul {
   padding: 0 0 0 0;
 }
 
-li{
+div.pad li{
   cursor: pointer;
   display: inline;
   padding: 3px 7px 3px 7px;
@@ -139,13 +139,13 @@ li{
   opacity: 0.7;
 }
 
-li:not(:first-child)::before {
+div.pad li:not(:first-child)::before {
   content: "|";
   padding-right: 7px;
   font-family: IBMPlexMono-Regular;
 }
 
-li.selected {
+div.pad li.selected {
     font-family: IBMPlexMono-SemiBold;
     opacity: 1;
 }

@@ -9,32 +9,32 @@ import linux from './img/linux.svg';
 export default function DownloadLinks(props){
     return (
         <>
-            <a href="https://github.com/maxim-saplin/CrossPlatformDiskTest/releases/download/2.3.0/CPDT.exe.zip" 
+            <a href="https://github.com/maxim-saplin/xOPS-App/releases/download/1.0.1/xOPS.exe" 
             target="_blank">
                 <img src={windows}/>
                 <br/>Windows
             </a>
-            <a href="https://github.com/maxim-saplin/CrossPlatformDiskTest/releases/download/2.3.3/CPDT.app.zip" 
+            <a href="https://github.com/maxim-saplin/xOPS-App/releases/download/1.0.1/xOPS.app.zip" 
             target="_blank">
                 <img src={macOS}/>
                 <br/>macOS
-            </a>
-            <a href="https://play.google.com/store/apps/details?id=com.Saplin.CPDT" 
+            </a>n
+            <a href="https://play.google.com/store/apps/details?id=xcom.saplin.xOPS" 
             target="_blank">
                 <img src={google_play}/><br/>
                 Android
             </a>
-            <a href="https://github.com/maxim-saplin/CrossPlatformDiskTest/releases/download/2.3.1/com.Saplin.CPDT.apk" 
+            <a href="https://github.com/maxim-saplin/xOPS-App/releases/download/1.0.2/xcom.saplin.xOPS.apk" 
             target="_blank">
                 <img src={apk}/>
                 <br/>.APK
             </a>
-            <a href="https://github.com/maxim-saplin/CrossPlatformDiskTest" 
+            <a href="https://github.com/maxim-saplin/xOPS-App" 
             target="_blank">
                 <img src={github}/>
                 <br/>GitHub
             </a>
-            <a href="https://github.com/maxim-saplin/NetCoreStorageSpeedTest/blob/master/README.md" 
+            <a href="https://github.com/maxim-saplin/xOPS-Console/releases/tag/1.0.2" 
             style={{opacity: 0.65}}
             target="_blank">
                 <img src={linux}/>
