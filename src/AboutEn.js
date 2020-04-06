@@ -32,6 +32,7 @@ export default function About(props){
             </div>
             <br/>
             </>}
+
             <h1>How does the App Work</h1>
             <br/>
             <div className="text">
@@ -82,7 +83,7 @@ export default function About(props){
                 .NET platform assumes there's JIT (Just-in-Time) or AOT (ahead-of-time) compiler and runtime for the code. There're different versions of .NET (Mono for Mac and Android, .NET Framework for Windows) and different mixtures of JITs and runtimes can introduce a significant source of variation (machone code produced, instruction level parallelism, branch predictions etc.). To make sure the results are meaningful and consistent a solid effort has been put into tinkering with the code and trying it on multiple devices/environments.
                 </li>
                 <li>
-                Promtness<br/>
+                Promptness<br/>
                 Еests take 5-20 seconds (depending on device performance) compared to minutes with other test suites.
                 </li>
                 </ol>
