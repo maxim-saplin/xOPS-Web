@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "4a89bfbeced5802099675eb4edb3c87a",
+    "revision": "54cfea141eb81304e1b22445f8dc84f3",
     "url": "/xOPS-Web/index.html"
   },
   {
-    "revision": "f475ea40a261d21c8fec",
+    "revision": "c9b56e087fe99c3b7721",
     "url": "/xOPS-Web/static/css/main.6aa5f7eb.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/xOPS-Web/static/js/2.d5dff55a.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "f475ea40a261d21c8fec",
-    "url": "/xOPS-Web/static/js/main.58ae764a.chunk.js"
+    "revision": "c9b56e087fe99c3b7721",
+    "url": "/xOPS-Web/static/js/main.8c6d9ba0.chunk.js"
   },
   {
     "revision": "ce81b2773e4af379cb37",
