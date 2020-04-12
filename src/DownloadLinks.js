@@ -18,11 +18,11 @@ export default function DownloadLinks(props){
             target="_blank">
                 <img src={macOS}/>
                 <br/>macOS
-            </a>n
+            </a>
             <a href="https://play.google.com/store/apps/details?id=xcom.saplin.xOPS" 
             target="_blank">
-                <img src={google_play}/><br/>
-                Android
+                <img src={google_play}/>
+                <br/>Android
             </a>
             <a href="https://github.com/maxim-saplin/xOPS-App/releases/download/1.0.4/xcom.saplin.xOPS.apk.zip" 
             target="_blank">
