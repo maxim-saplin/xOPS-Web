@@ -41,8 +41,8 @@ const translations =
 
     result_FS: "Flt.S",
     result_FM: "Flt.M",
-    result_IS: "Flt.S",
-    result_IM: "Flt.M"
+    result_IS: "Int.S",
+    result_IM: "Int.M"
 }
 
 export default translations;
