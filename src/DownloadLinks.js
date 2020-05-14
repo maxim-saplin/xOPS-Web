@@ -9,12 +9,12 @@ import linux from './img/linux.svg';
 export default function DownloadLinks(props){
     return (
         <>
-            <a href="https://github.com/maxim-saplin/xOPS-App/releases/download/1.0.4/xOPS.exe.zip" 
+            <a href="https://github.com/maxim-saplin/xOPS-App/releases/download/1.1.0/xOPS.exe.zip" 
             target="_blank">
                 <img src={windows}/>
                 <br/>Windows
             </a>
-            <a href="https://github.com/maxim-saplin/xOPS-App/releases/download/1.0.4/xOPS.app.zip" 
+            <a href="https://github.com/maxim-saplin/xOPS-App/releases/download/1.1.0/xOPS.app.zip" 
             target="_blank">
                 <img src={macOS}/>
                 <br/>macOS
@@ -24,7 +24,7 @@ export default function DownloadLinks(props){
                 <img src={google_play}/>
                 <br/>Android
             </a>
-            <a href="https://github.com/maxim-saplin/xOPS-App/releases/download/1.0.4/xcom.saplin.xOPS.apk.zip" 
+            <a href="https://github.com/maxim-saplin/xOPS-App/releases/download/1.1.0/xcom.saplin.xOPS.apk" 
             target="_blank">
                 <img src={apk}/>
                 <br/>.APK
