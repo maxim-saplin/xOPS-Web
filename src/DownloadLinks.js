@@ -24,7 +24,7 @@ export default function DownloadLinks(props){
                 <img src={google_play}/>
                 <br/>Android
             </a>
-            <a href="https://github.com/maxim-saplin/xOPS-App/releases/download/1.1.0/xcom.saplin.xOPS.apk" 
+            <a href="https://github.com/maxim-saplin/xOPS-App/releases/download/1.1.1/xcom.saplin.xOPS.apk" 
             target="_blank">
                 <img src={apk}/>
                 <br/>.APK

@@ -10,14 +10,14 @@ export default function About(props){
             <br/>
             {!props.inApp &&
             <div class="downloadBox">
-                <h1>Download CPDT Benchmark</h1>
+                <h1>Download xOPS CPU Benchmark</h1>
                 <br/>
                 <DownloadLinks />    
             </div>}
 
             {!props.download &&
             <> 
-            <h1>How are the Chart Results Obtained</h1>
+            <h1>How the Chart Results are Obtained</h1>
             <br/>
             <div className="text">
                 <p>
@@ -33,7 +33,7 @@ export default function About(props){
             <br/>
             </>}
 
-            <h1>How does the App Work</h1>
+            <h1>How the App Works</h1>
             <br/>
             <div className="text">
                 <p>
@@ -84,7 +84,7 @@ export default function About(props){
                 </li>
                 <li>
                 Promptness<br/>
-                Еests take 5-20 seconds (depending on device performance) compared to minutes with other test suites.
+                Tests take 5-20 seconds (depending on device performance) compared to minutes with other test suites.
                 </li>
                 </ol>
                 </p>

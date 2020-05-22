@@ -9,6 +9,7 @@ import Hint from './Hint'
 import AboutEn from './AboutEn'
 import AboutRu from './AboutRu'
 import AboutFr from './AboutFr'
+import AboutZh from './AboutZh'
 import db from './data'
 
 class App extends Component {
@@ -231,7 +232,10 @@ class App extends Component {
         ? <AboutRu toggleAbout={this.toggleAbout} linkClass={helpLinkClass} inApp={this.state.inAppPlatform != null} download={this.state.showDownload}/> 
         : (l18n.locale === l18n.frLocale 
           ? <AboutFr toggleAbout={this.toggleAbout} linkClass={helpLinkClass} inApp={this.state.inAppPlatform != null} download={this.state.showDownload}/> 
-          : <AboutEn toggleAbout={this.toggleAbout} linkClass={helpLinkClass} inApp={this.state.inAppPlatform != null} download={this.state.showDownload}/>));
+            : (l18n.locale === l18n.zhLocale 
+              ? <AboutZh toggleAbout={this.toggleAbout} linkClass={helpLinkClass} inApp={this.state.inAppPlatform != null} download={this.state.showDownload}/> 
+              : <AboutEn toggleAbout={this.toggleAbout} linkClass={helpLinkClass} inApp={this.state.inAppPlatform != null} download={this.state.showDownload}/>
+            )));
   }
 }
 
