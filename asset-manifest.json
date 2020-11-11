@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/xOPS-Web/static/css/main.6aa5f7eb.chunk.css",
-    "main.js": "/xOPS-Web/static/js/main.3ffae55a.chunk.js",
-    "main.js.map": "/xOPS-Web/static/js/main.3ffae55a.chunk.js.map",
-    "runtime-main.js": "/xOPS-Web/static/js/runtime-main.13ee9790.js",
-    "runtime-main.js.map": "/xOPS-Web/static/js/runtime-main.13ee9790.js.map",
-    "static/js/2.b9ee0295.chunk.js": "/xOPS-Web/static/js/2.b9ee0295.chunk.js",
-    "static/js/2.b9ee0295.chunk.js.map": "/xOPS-Web/static/js/2.b9ee0295.chunk.js.map",
+    "main.css": "/xOPS-Web/static/css/main.5dd78013.chunk.css",
+    "main.js": "/xOPS-Web/static/js/main.0285d177.chunk.js",
+    "main.js.map": "/xOPS-Web/static/js/main.0285d177.chunk.js.map",
+    "runtime-main.js": "/xOPS-Web/static/js/runtime-main.91b1b2c7.js",
+    "runtime-main.js.map": "/xOPS-Web/static/js/runtime-main.91b1b2c7.js.map",
+    "static/js/2.25a29652.chunk.js": "/xOPS-Web/static/js/2.25a29652.chunk.js",
+    "static/js/2.25a29652.chunk.js.map": "/xOPS-Web/static/js/2.25a29652.chunk.js.map",
     "index.html": "/xOPS-Web/index.html",
-    "precache-manifest.18fe51ea41db7fd7da0ed366599a1fab.js": "/xOPS-Web/precache-manifest.18fe51ea41db7fd7da0ed366599a1fab.js",
+    "precache-manifest.a2c12195d93ca6d96d071347861608ed.js": "/xOPS-Web/precache-manifest.a2c12195d93ca6d96d071347861608ed.js",
     "service-worker.js": "/xOPS-Web/service-worker.js",
-    "static/css/main.6aa5f7eb.chunk.css.map": "/xOPS-Web/static/css/main.6aa5f7eb.chunk.css.map",
-    "static/js/2.b9ee0295.chunk.js.LICENSE.txt": "/xOPS-Web/static/js/2.b9ee0295.chunk.js.LICENSE.txt",
+    "static/css/main.5dd78013.chunk.css.map": "/xOPS-Web/static/css/main.5dd78013.chunk.css.map",
+    "static/js/2.25a29652.chunk.js.LICENSE.txt": "/xOPS-Web/static/js/2.25a29652.chunk.js.LICENSE.txt",
     "static/media/index.css": "/xOPS-Web/static/media/RuBlack.bd379b41.png",
     "static/media/index_dark.css": "/xOPS-Web/static/media/RuWhite.47b2b792.png",
     "static/media/apk.svg": "/xOPS-Web/static/media/apk.a00fa3a4.svg",
@@ -22,9 +22,9 @@
     "static/media/windows.svg": "/xOPS-Web/static/media/windows.15e72531.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.13ee9790.js",
-    "static/js/2.b9ee0295.chunk.js",
-    "static/css/main.6aa5f7eb.chunk.css",
-    "static/js/main.3ffae55a.chunk.js"
+    "static/js/runtime-main.91b1b2c7.js",
+    "static/js/2.25a29652.chunk.js",
+    "static/css/main.5dd78013.chunk.css",
+    "static/js/main.0285d177.chunk.js"
   ]
 }
